@@ -1,5 +1,5 @@
 
-- 👀 "Act like a lady, think like an Engineer" LOL
+- 👀 "Act like a lady, think like an Engineer" 
 
 
 <!---
